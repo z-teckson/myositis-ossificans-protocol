@@ -8,6 +8,7 @@
 ## 2. Conservative Management (Initial Phase)
 - **Rest & Activity Modification:** Limit range of motion to prevent exacerbation.
 - **Medication:** NSAIDs for pain and inflammation. Consider oral steroids (e.g., Prednisone 40mg/day for 2 weeks) in the early inflammatory phase to reduce heterotopic bone formation.
+- **Adjunctive Therapy:** Consider bisphosphonates (e.g., Etidronate) to inhibit bone mineralization in the early active phase.
 
 ## 3. Surgical Intervention
 - **Indication:** Reserved for cases with significant functional impairment, persistent pain, or nerve compression after the lesion has matured.
