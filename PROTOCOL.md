@@ -1,4 +1,4 @@
-# Myositis Ossificans Treatment Protocol (v1.0)
+# Myositis Ossificans Treatment Protocol (v1.1)
 
 ## 1. Diagnosis
 - **Clinical suspicion:** Based on patient history of trauma and presentation of a painful, firm mass in soft tissue.
